@@ -8,9 +8,9 @@ O artigo aborda a importância e os desafios de analisar documentos JSON em alta
 
 ## 2. Fichamento Bibliográfico 
 
-- *JSON Parsing* é processo de análise e conversão de texto em formato JSON para uma representação em memória que programas de computador podem manipular facilmente (página 1-2).
-- *UTF-8 Validation* é a validação que busca verificar a sequência de bytes  é um UTF-8 válido (página 4-5).
-- *Parsing Performance* refere-se à velocidade e eficiência com que um analisador JSON pode processar e converter documentos JSON em uma representação em memória (página 7-9).
+- *JSON Parsing* (Análise do JSON) é processo de análise e conversão de texto em formato JSON para uma representação em memória que programas de computador podem manipular facilmente (página 1-2).
+- *UTF-8 Validation* (Validação UTF-8) é a validação que busca verificar a sequência de bytes  é um UTF-8 válido (página 4-5).
+- *Parsing Performance* (Análise de performance)  refere-se à velocidade e eficiência com que um analisador JSON pode processar e converter documentos JSON em uma representação em memória (página 7-9).
 
 ## 3. Fichamento de Citações 
 
